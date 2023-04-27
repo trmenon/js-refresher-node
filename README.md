@@ -26,3 +26,9 @@
 6. Compute HCF/GCD of two numbers
 7. Generate all primes withing a range
 8. Generate all armstrongs within range
+
+# List_Tasks
+1. Print Duplicates
+2. Getting pairs that sum up to a value
+3. Getting list of common values in two lists
+4. Binary search
